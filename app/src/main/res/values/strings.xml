@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SiriusXMTest</string>
+    <string name="retry">Retry</string>
+    <string name="book_error">An error occurred while loading the books.</string>
+    <string name="search_text_box">Search</string>
+
+    <!-- Accessibility -->
+    <string name="a11y_book_item_image" translation_description="Accessibility text for each of the book images shown in the 'Book list' screens.">Picture of Book</string>
+
+</resources>
